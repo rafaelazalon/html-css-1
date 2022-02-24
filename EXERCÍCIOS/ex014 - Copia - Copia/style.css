@@ -1,0 +1,16 @@
+@charset "UTF-8";
+body{
+    background-color: black; font-family: fantasy;
+    font-size: 20px;
+}
+h1{
+    color: cornsilk;
+    background-color:rgb(223, 192, 113);
+}
+h2{
+    color: cornsilk;
+}
+p{
+    color: cornsilk;
+    text-align: justify;
+}
